@@ -22,3 +22,11 @@ Tech Stack
 - HTML, CSS, JavaScript (Vanilla)
 - Browser localStorage (persistent)
 - GitHub Pages for deployment
+
+--------------------------------------------------
+
+Live Demo
+
+Click here to try it out: https://manasarpate1.github.io/AttendEase/ (update this after you deploy)
+
+
