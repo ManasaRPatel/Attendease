@@ -19,8 +19,8 @@ Features
 
 Tech Stack
 
-- HTML, CSS, JavaScript (Vanilla)
-- Browser localStorage (persistent)
+- HTML, CSS, JavaScript 
+- Browser localStorage 
 - GitHub Pages for deployment
 
 --------------------------------------------------
