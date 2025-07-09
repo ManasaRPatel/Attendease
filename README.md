@@ -27,6 +27,6 @@ Tech Stack
 
 Live Demo
 
-Click here to try it out: https://manasarpate1.github.io/AttendEase/ (update this after you deploy)
+Click here to try it out: https://manasarpatel.github.io/Attendease/ (update this after you deploy)
 
 
